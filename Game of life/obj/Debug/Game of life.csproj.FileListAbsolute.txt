@@ -1,0 +1,9 @@
+c:\users\buikr\documents\visual studio 2015\Projects\Game of life\Game of life\bin\Debug\Game of life.exe.config
+c:\users\buikr\documents\visual studio 2015\Projects\Game of life\Game of life\bin\Debug\Game of life.exe
+c:\users\buikr\documents\visual studio 2015\Projects\Game of life\Game of life\bin\Debug\Game of life.pdb
+c:\users\buikr\documents\visual studio 2015\Projects\Game of life\Game of life\obj\Debug\Game_of_life.Form1.resources
+c:\users\buikr\documents\visual studio 2015\Projects\Game of life\Game of life\obj\Debug\Game_of_life.Properties.Resources.resources
+c:\users\buikr\documents\visual studio 2015\Projects\Game of life\Game of life\obj\Debug\Game of life.csproj.GenerateResource.Cache
+c:\users\buikr\documents\visual studio 2015\Projects\Game of life\Game of life\obj\Debug\Game of life.exe
+c:\users\buikr\documents\visual studio 2015\Projects\Game of life\Game of life\obj\Debug\Game of life.pdb
+C:\Users\buikr\documents\visual studio 2015\Projects\Game of life\Game of life\obj\Debug\Game of life.csprojResolveAssemblyReference.cache
